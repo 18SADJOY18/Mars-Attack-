@@ -7,8 +7,7 @@
 		"preferredVictoryType": "Scientific",
 		"uniques": "+1000 Gold from each Trade Routes",
 		"[+1000]% Gold from Trade Routes",
-		"[+200]% Gems from Production"
-		]
+		],
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
@@ -35,7 +34,6 @@
 		"innerColor": [255,200,200],
 		"uniques": "[+1000 Gold] from each Trade Routes",
 		"[+1000]% [Gold] [from Trade Routes]",
-		"[+200]% [Gems] [from Production]"
 		],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
