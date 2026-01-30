@@ -10,7 +10,7 @@
 		"uniques": ["100% of food is carried over after a new citizen is born",
 		"+10 Food"],
 		"maintenance": 8,
-		"requiredTech": "Pottery"
+		"requiredTech": "Pottery",
 	},
 	{
 		"name": "Martian Temple",
@@ -23,6 +23,6 @@
 		"Faith": 10,
 		"uniques": ["Gain 40 Faith when a city grows",
 		"+10 Faith"],
-		"requiredTech": "Pottery"
+		"requiredTech": "Pottery",
 	}
 ]
