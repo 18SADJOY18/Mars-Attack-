@@ -5,9 +5,9 @@
 		"adjective": ["alien"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
-		"uniques": ["+200 Gold from Trade Routes",
-		"+200% Gold from Trade Routes",
-		"+200% Gems resource production",
+		"uniques": ["[+200] Gold from Trade Routes",
+		"[+200]% Gold from Trade Routes",
+		"[+200]% Gems resource production",
 		],
 		
 		"startIntroPart1": "We come in peace!",
