@@ -5,7 +5,9 @@
 		"adjective": ["alien"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
-		"uniques": ["+80 Gold for each city"],
+		"uniques": ["+200% Gold from city connections",
+		"+200 Gold from each city connection",
+		],
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
