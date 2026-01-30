@@ -20,8 +20,8 @@
 		"happiness": 10,
 		"culture": 10, 
 		"science": 10,
-		"Faith": 10,
-		"Gold": 200,
+		"faith": 10,
+		"gold": 200,
 		"requiredTech": "Pottery",
 	}
 ]
