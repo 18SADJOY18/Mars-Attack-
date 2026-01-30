@@ -5,9 +5,9 @@
 		"adjective": ["alien"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
-		"uniques": "[+1000 Gold] from each Trade Routes",
-		"[+1000]% [Gold] [from Trade Routes]",
-		"[+200]% [Gems] from Production"
+		"uniques": "+1000 Gold from each Trade Routes",
+		"[+1000]% Gold from Trade Routes",
+		"[+200]% Gems from Production"
 		]
 		
 		"startIntroPart1": "We come in peace!",
@@ -33,7 +33,10 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
+		"uniques": "[+1000 Gold] from each Trade Routes",
+		"[+1000]% [Gold] [from Trade Routes]",
+		"[+200]% [Gems] [from Production]"
+		],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
