@@ -21,8 +21,7 @@
 		"culture": 10, 
 		"science": 10,
 		"Faith": 10,
-		"uniques": ["Gain 40 Faith when a city grows",
-		"+10 Faith"],
+		"Gold": 200,
 		"requiredTech": "Pottery",
 	}
 ]
