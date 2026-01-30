@@ -1,4 +1,4 @@
-# Unciv-mod-example
+# Mars Attack
 
 An example mod for Unciv, that adds one new Civilization.
 
