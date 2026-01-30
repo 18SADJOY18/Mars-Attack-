@@ -7,7 +7,8 @@
 		"happiness": 10,
 		"culture": 10, 
 		"science": 10,
-		"uniques": ["100% of food is carried over after a new citizen is born"],
+		"uniques": ["100% of food is carried over after a new citizen is born",
+		"+10 Food"],
 		"maintenance": 8,
 		"requiredTech": "Pottery"
 	},
@@ -19,7 +20,9 @@
 		"happiness": 10,
 		"culture": 10, 
 		"science": 10,
-		"uniques": ["Gain 40 Faith when a city grows"],
+		"Faith": 10,
+		"uniques": ["Gain 40 Faith when a city grows",
+		"+10 Faith"],
 		"requiredTech": "Pottery"
 	}
 ]
