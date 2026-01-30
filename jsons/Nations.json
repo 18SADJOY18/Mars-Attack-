@@ -5,8 +5,8 @@
 		"adjective": ["alien"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
-		"uniques": ["+200 Gold from Trade Route",
-		"+200% Gold from Trade Route",
+		"uniques": ["+200 Gold from Trade Routes",
+		"+200% Gold from Trade Routes",
 		"+200% Gems resource production",
 		],
 		
