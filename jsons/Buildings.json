@@ -1,25 +1,25 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
+		"name": "Human Granary",
+		"replaces": "Granary",
 		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"cost": 20,
+		"happiness": 10,
+		"culture": 10, 
+		"science": 10,
+		"uniques": ["100% of food is carried over after a new citizen is born"],
+		"maintenance": 8,
+		"requiredTech": "Pottery"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
+		"name": "Martian Temple",
+		"replaces": "Shrine",
 		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"cost": 6,
+		"happiness": 10,
+		"culture": 10, 
+		"science": 10,
+		"uniques": ["Gain 40 Faith when a city grows"],
+		"requiredTech": "Pottery"
 	}
 ]
